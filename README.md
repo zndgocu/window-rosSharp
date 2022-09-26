@@ -9,7 +9,6 @@ https://github.com/ros2-dotnet/ros2_dotnet
 
 
 
-1. ros core server - on linux
-2. ros bridge client - on window or linux
-3. web server - on window or linux, nginx
-4. 
+1. ros core server
+2. ros bridge client
+3. web server
